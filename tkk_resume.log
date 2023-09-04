@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.9.2)  3 SEP 2023 19:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.9.2)  4 SEP 2023 00:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -289,11 +289,11 @@ Package rerunfilecheck Info: File `tkk_resume.out' has not changed.
 Here is how much of TeX's memory you used:
  7785 strings out of 478126
  124451 string characters out of 5842788
- 1865793 words of memory out of 6000000
+ 1867793 words of memory out of 6000000
  27788 multiletter control sequences out of 15000+600000
  514449 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,5n,77p,361b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,5n,77p,361b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texl
@@ -301,7 +301,7 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/cm-super/sfrm1000.pfb>
-Output written on tkk_resume.pdf (1 page, 79840 bytes).
+Output written on tkk_resume.pdf (1 page, 80038 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
