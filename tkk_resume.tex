@@ -1,31 +1,65 @@
 \documentclass[10pt, a4paper]{article}
-\title{Tim King-Kehl}
+\title{\textbf{Tim King-Kehl}}
 \usepackage{courier}
-\usepackage[margin=1in]{geometry}
+\usepackage[margin=.5in]{geometry}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=false,
+    }
+\urlstyle{same}
 \date{}
 
+\renewcommand{\abstractname}{} % Remove the word 'abstract' from abstract.
+
 \begin{document}
+\begin{center}
+    \textbf{\Huge \scshape Tim King-Kehl} \\ \vspace{1pt}
+    Papillion, NE \\ \vspace{1pt}
+     402-575-0627 \ $|$ \ \url{tkingkehl@gmail.com} \\ \vspace{1pt} 
+     \url{linkedin.com/in/tkingkehl} \ $|$ \ \url{github.com/tkingkehl} \\ \vspace{1pt} 
+\end{center}
 \begin{abstract}
-Site Reliability Engineer | Linux Administrator
+Site Reliability Engineer - Linux Administrator - Automation Enthusiast - Troubleshooter Extraordinaire
 \end{abstract}
 
 \section*{Work Experience}
 \begin{itemize}
-    \item Site Reliability Engineer/Linux Administrator - Senior Project Engineer - Distributed Environment Architecture DEA
+    \item \textbf{Senior Project Engineer} Union Pacific
     \begin{itemize}
         \item Manage 12,000+ Linux servers across multiple data centers. 3 RHEL-based OS varieties, 10+ OS versions. Perform day-to-day sys admin duties: troubleshooting, disk slicing, vendor POCs, server upgrades/migrations, and much more.
         \item Primary support/architect for GlusterFS, a clustered filesystem software. Completed upgrade from server/client version 4 to 6, across 700 total servers, with 100\% uptime.
         \item Primary support/architect for Linux patching, including: uploading custom packages to Spacewalk repositories, pulling down upstream packages into our in-house RPM repository, cutting the repositories and patching on a quarterly basis, and working with application teams to ensure reboots are performed.
         \item Primary support/architect for Rundeck automation suite, including Ansible playbooks and more, used for Linux server build automation, and other automation tasks.
         \item Primary support/architect for Prometheus server metric monitoring platform, integrated with Grafana.
-        \item Assist with UP's Linux architecture in Azure.
+        \item Assist with Linux architecture plans for UP's Azure journey.
         \item Write various Chef cookbooks, Bash scripts, and more ad-hoc/break-fix scripts for automation purposes.
+        \item Mentor and assist colleagues and juniors from my team and others across the Tech org.
+    \end{itemize}
+    \item \textbf{Project Engineer} Union Pacific
+    \begin{itemize}
+        \item Managed the Distributed (Unix/Linux, Windows) and Mainframe (TSO, CA7) production environments.
+        \item Actively monitored alert systems and responded to application and infrastructure related alarms.
+        \item Oversaw and deployed production application changes.
+        \item Performed call leader duties during critical system outage situations, escalated to proper support teams, and ensured swift resolution.
+        \item Developed and maintained scripts and programs to assist with the automation of daily work.
+        \item Lead disaster recovery training exercises, performed failovers of critical systems and applications between multiple data center locations.
+    \end{itemize}
+    \item \textbf{IT Intern} Union Pacific
+    \begin{itemize}
+        \item Provided Tier 1 Phone support and analysis.
+        \item Quickly troubleshot problems and found solutions by using available resources.
+        \item Assisted in training of both new full time and interning analysts.
     \end{itemize}
 \end{itemize}
 \section*{Education}
-\begin{itemize}
-    \item Bachelors of Science in Computer Science
-\end{itemize}
+    \begin{minipage}{0.5\textwidth} % Adjust the width as needed
+        \raggedright % Align text to the left
+        Bachelors of Science in Computer Science
+      \end{minipage}
+      \begin{minipage}{0.5\textwidth} % Adjust the width as needed
+        \raggedleft % Align text to the right
+        2014 \-- 2019
+      \end{minipage}
 
 \section*{Skills}
 
